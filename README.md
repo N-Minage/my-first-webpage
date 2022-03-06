@@ -11,7 +11,7 @@ installation:
 clone this repository https://github.com/N-Minage/my-first-webpage
 cd my-first-webpage
 
-live link:
+live link: https://github.com/N-Minage/my-first-webpage.git
 
 
 
